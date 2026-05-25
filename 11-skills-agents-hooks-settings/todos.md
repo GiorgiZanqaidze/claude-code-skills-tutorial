@@ -1,0 +1,5 @@
+- [ ] (high) 2026-05-20 — design schema for new analytics events
+- [ ] (med)  2026-05-22 — implement /events endpoint
+- [~] (med)  2026-05-23 — refactor auth middleware
+- [ ] (low)  2026-05-18 — clean up stale feature branches
+- [x] (high) 2026-05-15 — file Q2 OKRs with manager

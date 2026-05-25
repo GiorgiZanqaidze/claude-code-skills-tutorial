@@ -20,6 +20,7 @@ Claude Code is an agentic coding tool that runs in your terminal. It can read/wr
 | 08 | [Project Configuration](./08-project-configuration/) | CLAUDE.md, hooks, and settings |
 | 09 | [Advanced Patterns](./09-advanced-patterns/) | Multi-file edits, agents, and automation |
 | 10 | [Tips and Tricks](./10-tips-and-tricks/) | Power user techniques |
+| 11 | [Skills, Agents, Hooks & Settings](./11-skills-agents-hooks-settings/) | Extending Claude Code: a hands-on TODO-manager mini-project |
 
 ## Prerequisites
 
