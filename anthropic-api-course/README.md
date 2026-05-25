@@ -8,8 +8,8 @@ Each notebook is one focused phase. Work through them in order.
 
 | # | Notebook | Concepts |
 |---|----------|----------|
-| 1 | `notebooks/01_first_request.ipynb` | SDK setup, first `messages.create`, response shape |
-| 2 | _(next)_ | Multi-turn conversations, system prompts, temperature, streaming |
+| 1 | `notebooks/01_first_request.ipynb` ✅ | SDK setup, first `messages.create`, response shape |
+| 2 | `notebooks/02_chatbot.ipynb` | Multi-turn conversations, system prompts, temperature, streaming |
 | 3 | _(next)_ | Prefill, stop sequences, structured JSON output |
 | 4 | _(next)_ | Eval pipeline: dataset → grader → score |
 | 5 | _(next)_ | Tool use: schema, run loop, multiple tools |
